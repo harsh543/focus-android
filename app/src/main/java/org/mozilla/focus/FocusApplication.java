@@ -9,6 +9,11 @@ import android.arch.lifecycle.LiveData;
 import android.os.StrictMode;
 import android.preference.PreferenceManager;
 
+<<<<<<< HEAD
+=======
+//import com.squareup.leakcanary.LeakCanary;
+
+>>>>>>> Initial attempt to send tests to Google Firebase Testcloud
 import org.mozilla.focus.locale.LocaleAwareApplication;
 import org.mozilla.focus.search.SearchEngineManager;
 import org.mozilla.focus.session.NotificationSessionObserver;
